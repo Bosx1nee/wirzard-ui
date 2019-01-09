@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/dionnf1/repos/cs30-num-wiz-ui-Bosx1nee-master/Number Wizard UI/Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
